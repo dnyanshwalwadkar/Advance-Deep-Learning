@@ -8,8 +8,7 @@ Our repository is dedicated to advancing the frontiers of deep learning by provi
 
 Join us on our journey of discovery and innovation as we unravel the mysteries of deep learning and shape the future of artificial intelligence.
 
-Repository Link : https://github.com/dnyanshwalwadkar/Advance-Deep-Learning
-[![Button Name](logo_path)](link)
+
 
 ![alt text](Computer_Vision/Images/readme.png)
 
@@ -42,5 +41,6 @@ We encourage you to contribute to this repository by sharing your own implementa
 ### 🌐 Stay Connected
 
 Don't forget to *star* and *watch* this repository to stay informed about new additions and updates. Join our community of deep learning enthusiasts and embark on an exciting journey of discovery, exploration, and innovation!
-
+Repository Link : 
+[![Repository Link](Computer_Vision/Images/GitHub.png)]([link](https://github.com/dnyanshwalwadkar/Advance-Deep-Learning))
 🔍 Keywords: #DeepLearning, #ResearchPapers, #AdvancedTechniques, #NeuralNetworks, #GANs, #ReinforcementLearning, #MetaLearning, #ObjectDetection, #NaturalLanguageProcessing, #ComputerVision, #UncertaintyQuantification, #AdversarialTraining, #DeepLearningArchitectures

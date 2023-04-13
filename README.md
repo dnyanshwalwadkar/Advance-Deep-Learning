@@ -10,6 +10,7 @@ Join us on our journey of discovery and innovation as we unravel the mysteries o
 
 Repository Link : https://github.com/dnyanshwalwadkar/Advance-Deep-Learning
 
+![alt text](Computer_Vision/Images/readme.png)
 ### 📚 What's Inside?
 
 This repository covers a wide range of advanced deep learning topics, including but not limited to:

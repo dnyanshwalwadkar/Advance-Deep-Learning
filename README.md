@@ -42,5 +42,5 @@ We encourage you to contribute to this repository by sharing your own implementa
 
 Don't forget to *star* and *watch* this repository to stay informed about new additions and updates. Join our community of deep learning enthusiasts and embark on an exciting journey of discovery, exploration, and innovation!
 Repository Link : 
-[![Repository Link](Computer_Vision/Images/GitHub.png)]([https://github.com/dnyanshwalwadkar/Advance-Deep-Learning])
+[![Repository Link](Computer_Vision/Images/GitHub.png)([https://github.com/dnyanshwalwadkar/Advance-Deep-Learning])]
 🔍 Keywords: #DeepLearning, #ResearchPapers, #AdvancedTechniques, #NeuralNetworks, #GANs, #ReinforcementLearning, #MetaLearning, #ObjectDetection, #NaturalLanguageProcessing, #ComputerVision, #UncertaintyQuantification, #AdversarialTraining, #DeepLearningArchitectures
